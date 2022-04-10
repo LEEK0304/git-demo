@@ -8,6 +8,4 @@ hello world!! zhong
 HELLO WORLD!!
 
 111111111111111111111111111
-zhong
-
-gao
+git 教程
